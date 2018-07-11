@@ -58,10 +58,3 @@ elif A==7:
     root=math.sqrt(number1)
     print('THE RESULT IS: ',root )
 
-
-
-
-
-
-
-
