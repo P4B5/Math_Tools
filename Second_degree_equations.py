@@ -29,6 +29,3 @@ else:
         pimag=(math.sqrt(-disc)/(2*a))
         print ('two complex roots: ', preal, '(+/-)', pimag, 'i')
 
-
-
-
