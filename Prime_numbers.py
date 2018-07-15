@@ -1,7 +1,5 @@
 
-
-#CHECK IF THE NUMBER IS PRIME OR NOT
-
+#CHECK IF A ANY RAMDOM NUMBER IS PRIME OR NOT
 
 n=int (input('write a number: '))
 aux=2
@@ -17,4 +15,3 @@ if prime:
          print('the number written is prime')
 else:
          print('the number written is not prime')
-
