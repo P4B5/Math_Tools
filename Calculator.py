@@ -6,16 +6,16 @@ import math
 
 print ('--------------------THIS IS A CALCULATOR----------------------')
 
-print (sep='')
+print ('')
 
 print('First, write the two numbers to work with:')
 
-print (sep='')
+print ('')
 
 number1 = float (input ('Number 1:'))                      
 number2 = float (input ('Number 2:'))
 
-print (sep='')
+print ('')
 
 print ('Second, choose the operation you want to do:')
 print (sep='')
@@ -27,11 +27,11 @@ print ('REMAINDER --------------------------> write 5')
 print ('POWER ------------------------------> write 6')
 print ('SQUARE ROOT (**only number 1**) ----> write 7')
 
-print (sep='')
+print ('')
 
 A=int (input('operation to do:'))
 
-print (sep='')
+print ('')
 
 if A<0 or A>7:
     print('this number doesnt correspond with any operation')
