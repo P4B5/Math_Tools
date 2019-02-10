@@ -1,3 +1,5 @@
+//this code calculate the 90 first numbers of the fibonacci secuence 
+
 import edu.princeton.cs.algs4.*;
 
 public class FibonacciMemo {
